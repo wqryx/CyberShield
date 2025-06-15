@@ -60,6 +60,7 @@
     "crypto-js": "^4.2.0",
     "date-fns": "^3.6.0",
     "docx": "^9.5.0",
+    "dotenv": "^16.5.0",
     "drizzle-orm": "^0.38.4",
     "drizzle-seed": "^0.3.1",
     "drizzle-zod": "^0.6.0",
